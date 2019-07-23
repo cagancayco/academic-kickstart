@@ -18,18 +18,33 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+#  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+#  description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "calculator"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "MATLAB"
+#  description = "10%"
+
+[[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "HPC"
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Neuroimaging"
+  
+[[feature]]
+  icon = "images"
+  icon_pack = "fas"
+  name = "Image Processing"
 
 +++
