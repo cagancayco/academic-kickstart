@@ -1,6 +1,6 @@
 ---
-title: MATLAB App for Calcium Analysis
-summary: An example of using the in-built project page.
+title: MATLAB Apps for Calcium Analysis
+summary: Developing MATLAB apps for analyzing calcium oscillatory events in the mouse adrenal gland
 tags:
 - MATLAB
 

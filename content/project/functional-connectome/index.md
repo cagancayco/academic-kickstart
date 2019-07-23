@@ -1,10 +1,9 @@
 ---
 title: Functional Connectome Fingerprinting
-summary: An example of using the in-built project page.
+summary: Investigating the durability of individuals' unique functional connectomes
 tags:
 - Neuroimaging
 - MATLAB
-- R
 date: "2019-07-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

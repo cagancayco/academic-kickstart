@@ -1,6 +1,6 @@
 ---
 title: Online Programming Workshops
-summary: An example of using the in-built project page.
+summary: Creating programming workshops for the classroom and the self-learner
 tags:
 - Teaching
 - Python

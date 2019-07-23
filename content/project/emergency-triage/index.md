@@ -1,9 +1,10 @@
 ---
 title: Automated Emergency Triage
-summary: An example of using the in-built project page.
+summary: Using TensorFlow to determine triage level in the emergency department
 tags:
 - Machine Learning
 - Python
+- R
 date: "2019-07-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

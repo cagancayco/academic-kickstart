@@ -1,6 +1,6 @@
 ---
 title: Functional Changes in mTBI Patients
-summary: An example of using the in-built project page.
+summary: Determining functional connectivity changes in patients who suffered a mild traumatic brain injury
 tags:
 - Neuroimaging
 - Machine Learning

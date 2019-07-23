@@ -1,8 +1,7 @@
 ---
 title: Predicting Injury Severity in Older Adults
-summary: An example of using the in-built project page.
+summary: Determining accuracy of predicting injury in older adults after a motor vehicle collision
 tags:
-- Predictive Modeling
 - R
 date: "2019-07-22T00:00:00Z"
 
