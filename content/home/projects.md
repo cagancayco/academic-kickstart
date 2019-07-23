@@ -21,17 +21,33 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+    
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "MATLAB"
+    tag = "MATLAB"
+    
+  [[content.filter_button]]
+    name = "Neuroimaging"
+    tag = "Neuroimaging"
+    
+  [[content.filter_button]]
+    name = "Python"
+    tag = "Python"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "R"
+    tag = "R"
+    
+  [[content.filter_button]]
+    name = "Teaching"
+    tag = "Teaching"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
