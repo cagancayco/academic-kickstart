@@ -64,6 +64,6 @@ email: ""
 # - Visitors
 ---
 
-Christina Gancayco is a Research Computing Associate at the University of Virginia where she collaborates with faculty on image processing and data analysis projects. Prior to joining UVa Research Computing, Christina researched traumatic brain injury at the UVa Functional Neuroradiology Lab. She specializes in MATLAB, R, and Python programming but is always excited to learn new technologies and programming languages.
+I am a Research Computing Associate at the University of Virginia where I collaborate with faculty on image processing and data analysis projects. Prior to joining UVa Research Computing, I researched traumatic brain injury at the UVa Functional Neuroradiology Lab. I specialize in MATLAB, R, and Python programming but I'm always excited to learn new technologies and programming languages.
 
-In her spare time, Christina enjoys trying new recipes, Brazilian jiu-jitsu, and taking pictures of her [dog around Charlottesville](https://instagram.com/cvillemopsy).
+In my spare time, I enjoy trying new recipes, Brazilian jiu-jitsu, and taking pictures of my [dog around Charlottesville](https://instagram.com/cvillemopsy).

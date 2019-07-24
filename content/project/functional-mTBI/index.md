@@ -4,25 +4,26 @@ summary: Determining functional connectivity changes in patients who suffered a 
 tags:
 - Neuroimaging
 - Machine Learning
+- MATLAB
 - Teaching
-date: "2019-07-22T00:00:00Z"
+date: "2019-07-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -32,12 +33,23 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+**Principal Investigator: Dr. Jason Druzgal, UVa Dept. of Radiology**
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+A reported 1.7 million people experience traumatic brain injury (TBI) each year<sup>1</sup>. After a concussion, athletes are cleared to return to play after 7 to 10 days<sup>2</sup>, while non-athletes are typically expected to recover within 3 to 6 months<sup>3,4,5</sup>. Researchers were interested in investigating whether disruptions in functional activity and connectivity persist beyond the clinical recovery period.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+This was the undergraduate thesis project of a student I mentored in the UVa Functional Neuroradiology Lab. In addition to teaching her how to write bash scripts for using UVa's HPC system, I performed machine learning analyses in MATLAB using the Pronto toolbox for classifying functional brain activity.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+<br></br>
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+References:
+
+1. Roozenbeek, B., Maas, A. I. & Menon, D.K. (2013) Changing patterns in the epidemiology of traumatic brain injury. Nat. Rev. Neurol, 9(4), 231-236.
+
+2. Slobounov SM, Zhang K, Pennell D, Ray W, Johnson B, Sebastianelli W. (2010) Functional abnormalities in normally appearing athletes following mild traumatic brain injury: a functional MRI study. Exp Brain Res, 202(2), 341-354.
+
+3. Leddy JJ, Sandhu H, Sodhi V, Baker JG, Willer B. (2012) Rehabilitation of Concussion and Post-concussion Syndrome. Sports Health 4(2), 147-154.
+
+4. Rosenbaum, S., & Lipton, M. (2012). Embracing chaos: the scope and importance of clinical adn pathological heterogeneity in mTBI. Brain Imaging And Behavior, 6(2), 255-282.
+
+5. Losoi H, Silverber ND, Wajas M, Turunen S, Rosti-Otajarvi E, Helminem M, Luoto TM, Julkunen J, Ohman J, Iverson GL. (2016) Recovery from Mild Traumatic Brain Injury in Previously Healthy Adults. J Neurotrauma, 33(8), 766-776.
+
