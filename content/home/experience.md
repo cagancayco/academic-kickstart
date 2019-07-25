@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   
   * Programming experiments with MATLAB and Psychtoolbox
   
-  * Developing experiments for Amazon Mechanical Turk with HTML, CSS, and JavaScript
+  * Developing experiments for Amazon MTurk with HTML, CSS, and JavaScript
   
   * Analyzing behavioral data in MATLAB and Excel
   
