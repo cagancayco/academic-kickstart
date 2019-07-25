@@ -46,4 +46,4 @@ With this application, the Barrett Lab was able to analyze the characteristics o
 
 <br></br>
 
-Code I wrote for this project can be found on [Github](https://github.com/cagancayco/ImageAnalysisHub).
+Code I wrote for this project can be found on [Github](https://github.com/cagancayco/ImageAnalysisHub/scripts).
