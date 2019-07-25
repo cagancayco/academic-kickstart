@@ -48,4 +48,4 @@ My main contributions to this project are:
 
 <br></br>
 
-Code written by me for this project can be found on [Github](https://github.com/cagancayco/emergency-triage).
+Code written by me for this project can be found on [Github](https://github.com/cagancayco/ed-triage).
