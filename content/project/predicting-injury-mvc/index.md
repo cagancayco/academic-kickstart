@@ -35,6 +35,30 @@ slides: example
 Previous research has shown that older adults are more susceptible to severe injury than their younger counterparts after being involved in a motor vehicle collision. Dr. Hartka was interested in determining whether there are age-related differences in the accuracy of severe injury prediction following a motor vehicle collision. Using R, I developed age-specific logistic regression models and assessed their accuracy, and generated unique graphs and animations to visualize the data more effectively.
 
 
-<br></br>
+Code I wrote for this project can be found on [Github](https://github.com/cagancayco/MVC).
 
-Code I wrote for this project can be found on [Github](https://github.com/cagancayco/mvc-age).
+<style>
+.column {
+  float: left;
+  width: 50%;
+  height: 50%;
+  padding: 20px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <img src="/files/mvc-riskcurve-beltuse.gif" style="width:100%"></img>
+  </div>
+  
+  <div class="column">
+    <img src="/files/mvc-riskcurve-pdof.gif" style="width:100%"></img>
+  </div>
+</div>
+
