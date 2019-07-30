@@ -33,7 +33,7 @@ slides: example
 
 **Principal Investigator: Dr. Jason Druzgal, UVa Dept. of Radiology**
 
-Previous research has found that individuals can be identified by their functional connectome: a map showing how different regions of their brain are connected. Finn et al achieved 93% accuracy when identifying 126 subjects using high-res resting state function MRI scans acquired over two days<sup>1</sup>. Researchers from the UVa Functional Neuroradiology Lab sought to answer two questions: 
+Previous research has found that individuals can be identified by their functional connectome: a map showing how different regions of their brain are connected. Finn et al achieved 93% accuracy when identifying 126 subjects using high-res resting state functional MRI scans acquired over two days<sup>1</sup>. Researchers from the UVa Functional Neuroradiology Lab sought to answer two questions: 
 
 1. Are the characteristics of an individual's functional connectome durable over several months, as opposed to over two days?
 
@@ -45,8 +45,3 @@ My main contributions to this project were:
 
 * **Writing bash scripts** to run our pipeline on UVa's HPC system
 
-
-
-<br></br>
-
-Code written by me for this project can be found on [Github](https://github.com/cagancayco/functional-connectome).
