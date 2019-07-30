@@ -45,3 +45,8 @@ My main contributions to this project were:
 
 * **Writing bash scripts** to run our pipeline on UVa's HPC system
 
+<br></br>
+
+References
+
+1. Finn, E. S., Shen, X., Scheinost, D., Rosenberg, M. D., Huang, J., Chun, M. M., Papademetris, X. & Constable, R. T. (2015). Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity. Nature neuroscience, 18(11), 1664.
